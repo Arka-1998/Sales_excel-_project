@@ -1,4 +1,6 @@
 # Sales Excel Project
+![](https://github.com/Arka-1998/Sales_excel-_project/blob/main/Screenshot%202025-04-23%20105736.png)
+## Summary :
 This repository contains a comprehensive Excel-based Sales Data Management System designed for small to medium-sized businesses. It integrates various advanced Excel functionalities to streamline sales tracking, data analysis, and new entry processes.
 
 ## 🔧 Features:
